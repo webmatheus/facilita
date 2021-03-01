@@ -1,0 +1,27 @@
+section#top {
+    padding: 20px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.modal h4 {
+    font-size: 24px;
+    text-align: center;
+    margin: 22px 0;
+}
+
+h2.maintitle {
+    font-size: 21px;
+}
+
+.btn i {
+    line-height: 29px !important;
+    top: 4px;
+    position: relative;
+}
+
+ul#ticket_rent {
+    background: #fffcd5;  
+    border-top: 1px dashed #8a8a8a;
+    padding: 24px;
+}
